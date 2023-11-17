@@ -1,0 +1,16 @@
+{
+  "name": "s-89",
+  "version": "1.0.0",
+  "description": "A filler for the S-89 form",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Breno Bernardes",
+  "license": "ISC",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "xlsx": "^0.18.5"
+  }
+}
