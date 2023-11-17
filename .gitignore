@@ -1,5 +1,5 @@
 node_modules
 
-*.xlsx
+lista.xlsx
 *.pdf
 *.env
